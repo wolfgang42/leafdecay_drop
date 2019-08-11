@@ -1,0 +1,1 @@
+This is a simple Minetest mod that makes leaves drop to the ground instead of disappearing when their tree is chopped down. (In technical terms, it adds all nodes in the `leafdecay` group to the `leafdecay_drop` group as well.) It should be compatible with trees added by any mod.
